@@ -25,6 +25,8 @@ I approach development through hands-on experimentation, understanding implement
 
 My long-term goal is to contribute to engineering teams building scalable, reliable, and impactful AI-powered software.
 
+Klyro — I built a Python and Streamlit chatbot with Groq-powered streaming responses and chat history. View the repository
+
 ## Technical Focus
 
 | Area | Technologies & Concepts |
