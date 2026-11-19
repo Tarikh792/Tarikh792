@@ -22,6 +22,14 @@ I built Klyro, a conversational AI app with a Streamlit interface, Groq-powered 
 
 [**View Klyro repository**](https://github.com/Tarikh792/Klyro)
 
+### Aethra — AI Document Research Assistant
+
+I built Aethra, a Retrieval-Augmented Generation (RAG) application that lets users upload PDFs and ask questions about their content. The project combines text extraction, chunking, vector embeddings, semantic search, and Groq-powered responses with source references in a Streamlit interface.
+
+**Stack:** Python, Streamlit, PyPDF, Sentence Transformers, NumPy, Groq, and GPT-OSS 20B
+
+**[View Aethra repository](https://github.com/Tarikh792/Aethra)**
+
 ## About Me
 
 I'm an Artificial Intelligence undergraduate at SZABIST Islamabad, focused on software engineering and applied AI. I'm interested in large language models, retrieval-augmented generation, and AI agents.
