@@ -46,6 +46,14 @@ Stack: Python, MCP Python SDK, FastMCP, JSON, and MCP Inspector
 
 **[View Noryx repository](https://github.com/Tarikh792/Noryx)**
 
+### SOLVYN — AI Evaluation Platform
+
+Built an AI evaluation workspace to measure LLM response similarity, latency, and token usage. Features custom evaluation datasets, interactive analytics, SQLite-based run history, experiment comparisons, and CSV reporting.
+
+**Stack:** Python, Streamlit, Groq, Sentence Transformers, Pandas, Plotly, SQLite
+
+**[View SOLVYN repository](https://github.com/Tarikh792/Solvyn)**
+
 ## About Me
 
 I'm an Artificial Intelligence undergraduate at SZABIST Islamabad, focused on software engineering and applied AI. I'm interested in large language models, retrieval-augmented generation, and AI agents.
