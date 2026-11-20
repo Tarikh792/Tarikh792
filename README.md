@@ -36,7 +36,7 @@ I built Vyrex, a tool-using AI agent that can perform web research, execute calc
 
 Stack: Python, Streamlit, Groq, GPT-OSS 20B, and DDGS
 
-View Vyrex repository
+[View Vyrex repository](https://github.com/Tarikh792/Vyrex)
 
 ### Noryx — MCP Knowledge Management Server
 
