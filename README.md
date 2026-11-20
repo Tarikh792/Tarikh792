@@ -30,7 +30,7 @@ I built Aethra, a Retrieval-Augmented Generation (RAG) application that lets use
 
 **[View Aethra repository](https://github.com/Tarikh792/Aethra)**
 
-Vyrex — AI Research & Productivity Agent
+### Vyrex — AI Research & Productivity Agent
 
 I built Vyrex, a tool-using AI agent that can perform web research, execute calculations, and generate structured responses with source references. The project combines LLM function calling, custom agent orchestration, tool execution, error handling, and activity tracking in an interactive Streamlit workspace.
 
@@ -38,7 +38,7 @@ Stack: Python, Streamlit, Groq, GPT-OSS 20B, and DDGS
 
 View Vyrex repository
 
-Noryx — MCP Knowledge Management Server
+### Noryx — MCP Knowledge Management Server
 
 I built Noryx, a Model Context Protocol (MCP) server that enables AI clients to interact with a local knowledge management system. The project implements tools for creating, reading, listing, and searching notes, with JSON-based storage and standardized client-server communication. I also tested the server using the official MCP Inspector and a custom Python MCP client.
 
