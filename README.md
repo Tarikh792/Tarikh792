@@ -44,7 +44,7 @@ I built Noryx, a Model Context Protocol (MCP) server that enables AI clients to 
 
 Stack: Python, MCP Python SDK, FastMCP, JSON, and MCP Inspector
 
-View Noryx repository
+**[View Noryx repository](https://github.com/Tarikh792/Noryx)**
 
 ## About Me
 
